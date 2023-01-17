@@ -1,0 +1,15 @@
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\bin\Debug\net7.0\Taskwork.exe
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\bin\Debug\net7.0\Taskwork.deps.json
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\bin\Debug\net7.0\Taskwork.runtimeconfig.json
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\bin\Debug\net7.0\Taskwork.dll
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\bin\Debug\net7.0\Taskwork.pdb
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.csproj.AssemblyReference.cache
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.AssemblyInfoInputs.cache
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.AssemblyInfo.cs
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.csproj.CoreCompileInputs.cache
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.dll
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\refint\Taskwork.dll
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.pdb
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\Taskwork.genruntimeconfig.cache
+C:\Users\илфат\Desktop\Языки програмирования\HomeworkTask\Taskwork\obj\Debug\net7.0\ref\Taskwork.dll
